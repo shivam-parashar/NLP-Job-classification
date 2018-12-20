@@ -1,0 +1,2 @@
+# NLP-Job-classification
+A lot of companies post many jobs every day for seeker’s perusal. They tag these jobs such that they could recommend these jobs to the job seekers having similar skills. These tags are primarily entered manually by the recruiters. But in cases where the recruiter is not very enabled with plenty of tags that could hold good with the job, the system would like to make suggestions. So, whenever a recruiter posts a job, our system will recommend to the recruiter to associates appropriate tags with the jobs.
